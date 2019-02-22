@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CollegeApp</string>
+    <string name="College">College</string>
+    <string name="App">App</string>
+    <string name="SAT_Score">Enter SAT Score Here</string>
+    <string name="ACT_Score">Enter ACT Score Here</string>
+    <string name="GPA">Enter GPA Here</string>
+    <string name="GradYear">Enter Grad Year Here</string>
+    <string name="Major">Enter Major Here</string>
+    <string name="Information">Information</string>
+    <string name="AppliedForCollege">Applied for college</string>
+    <string name="LettersOfRecommendation">Letters of recommendation</string>
+    <string name="AppliedForScholarship">Applied for scholarship</string>
+    <string name="Extracurriculars">Extracurriculars</string>
+    <string name="Extracurricular">Extracurricular…</string>
+    <string name="ExtracurricularYear">Year…</string>
+
+</resources>
