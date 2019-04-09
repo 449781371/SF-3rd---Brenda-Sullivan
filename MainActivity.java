@@ -1,31 +1,17 @@
-package statefarm.collegeapp;
+package org.pltw.example.sfduedate;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.GestureDetector;
-import android.view.MotionEvent;
-import android.gesture.Gesture;
 import android.view.View;
-import android.widget.TextView;
-
-
-public class MainActivity extends AppCompatActivity  {
-
-    private String TAG = MainActivity.class.getSimpleName();
+public class MainActivity extends AppCompatActivity {
 
     @Override
-
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        GestureListener gestureDetector1 = new GestureListener();
-
-        ;
-
     }
-
-
-    }
-
-
+    //This method would create and constrain groups when the button is clocked
+    //public void onFloatingActionButtonClick{View view}{
+        //group.create
+    //}
 }
